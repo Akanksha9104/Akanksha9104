@@ -45,7 +45,7 @@ Engineering student passionate about coding, innovation and building useful tech
 ## 🔥 Top Projects:
 
 - 🚀 PrepBot (AI Mock Interview Project)
-- 🚀 Focus Forge
+- 🚀 AI Trip Planner
 - 🚀 SQL Practice Repository
 
 ---

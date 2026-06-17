@@ -47,7 +47,7 @@ Engineering student passionate about coding, innovation and building useful tech
 
 - 🚀 PrepBot (AI Mock Interview Project)
 - 🚀 AI Trip Planner
-- 🚀 SQL Practice Repository
+- 🚀 Frontend Of Hotel
 
 ---
 
